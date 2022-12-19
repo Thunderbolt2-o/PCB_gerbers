@@ -1,0 +1,2 @@
+https://elonics.org/sites/default/files/inline-images/flashing-blinking-led-circuit-using-555-timer-schematic.png
+https://www.hackster.io/eric-schneider/555-timer-led-blinkie-b26ecf
